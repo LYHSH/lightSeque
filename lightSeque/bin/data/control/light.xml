@@ -1,6 +1,6 @@
 <!-- 展馆照明灯光控制配置文件 -->
 <!-- 回路序号从0开始 -->
-<!-- 8,9,10,11第一路 -->
+<!-- 8,9,10,11第1， 9， 5， 9 路 -->
 <light>
 	<node>
 		<relay_index>2</relay_index>
@@ -8,89 +8,7 @@
 	</node>
 	<node>
 		<relay_index>3</relay_index>
-		<loop_index>0</loop_index>
-	</node>
-	<node>
-		<relay_index>4</relay_index>
-		<loop_index>0</loop_index>
-	</node>
-	<node>
-		<relay_index>5</relay_index>
-		<loop_index>0</loop_index>
-	</node>
-</light>
-
-<!-- 8,9,10,11第二路 -->
-<light>
-	<node>
-		<relay_index>2</relay_index>
-		<loop_index>1</loop_index>
-	</node>
-	<node>
-		<relay_index>3</relay_index>
-		<loop_index>1</loop_index>
-	</node>
-	<node>
-		<relay_index>4</relay_index>
-		<loop_index>1</loop_index>
-	</node>
-	<node>
-		<relay_index>5</relay_index>
-		<loop_index>1</loop_index>
-	</node>
-</light>
-
-<!-- 8,9,10,11第三路 -->
-<light>
-	<node>
-		<relay_index>2</relay_index>
-		<loop_index>2</loop_index>
-	</node>
-	<node>
-		<relay_index>3</relay_index>
-		<loop_index>2</loop_index>
-	</node>
-	<node>
-		<relay_index>4</relay_index>
-		<loop_index>2</loop_index>
-	</node>
-	<node>
-		<relay_index>5</relay_index>
-		<loop_index>2</loop_index>
-	</node>
-</light>
-
-
-<!-- 8,9,10,11第四路 -->
-<light>
-	<node>
-		<relay_index>2</relay_index>
-		<loop_index>3</loop_index>
-	</node>
-	<node>
-		<relay_index>3</relay_index>
-		<loop_index>3</loop_index>
-	</node>
-	<node>
-		<relay_index>4</relay_index>
-		<loop_index>3</loop_index>
-	</node>
-	<node>
-		<relay_index>5</relay_index>
-		<loop_index>3</loop_index>
-	</node>
-</light>
-
-
-<!-- 8,9,10,11第五路 -->
-<light>
-	<node>
-		<relay_index>2</relay_index>
-		<loop_index>4</loop_index>
-	</node>
-	<node>
-		<relay_index>3</relay_index>
-		<loop_index>4</loop_index>
+		<loop_index>8</loop_index>
 	</node>
 	<node>
 		<relay_index>4</relay_index>
@@ -98,100 +16,15 @@
 	</node>
 	<node>
 		<relay_index>5</relay_index>
-		<loop_index>4</loop_index>
-	</node>
-</light>
-
-
-<!-- 8,9,10,11第六路 -->
-<light>
-	<node>
-		<relay_index>2</relay_index>
-		<loop_index>5</loop_index>
-	</node>
-	<node>
-		<relay_index>3</relay_index>
-		<loop_index>5</loop_index>
-	</node>
-	<node>
-		<relay_index>4</relay_index>
-		<loop_index>5</loop_index>
-	</node>
-	<node>
-		<relay_index>5</relay_index>
-		<loop_index>5</loop_index>
-	</node>
-</light>
-
-
-<!-- 8,9,10,11第七路 -->
-<light>
-	<node>
-		<relay_index>2</relay_index>
-		<loop_index>6</loop_index>
-	</node>
-	<node>
-		<relay_index>3</relay_index>
-		<loop_index>6</loop_index>
-	</node>
-	<node>
-		<relay_index>4</relay_index>
-		<loop_index>6</loop_index>
-	</node>
-	<node>
-		<relay_index>5</relay_index>
-		<loop_index>6</loop_index>
-	</node>
-</light>
-
-
-<!-- 8,9,10,11第八路 -->
-<light>
-	<node>
-		<relay_index>2</relay_index>
-		<loop_index>7</loop_index>
-	</node>
-	<node>
-		<relay_index>3</relay_index>
-		<loop_index>7</loop_index>
-	</node>
-	<node>
-		<relay_index>4</relay_index>
-		<loop_index>7</loop_index>
-	</node>
-	<node>
-		<relay_index>5</relay_index>
-		<loop_index>7</loop_index>
-	</node>
-</light>
-
-
-<!-- 8,9,10,11第九路 -->
-<light>
-	<node>
-		<relay_index>2</relay_index>
-		<loop_index>8</loop_index>
-	</node>
-	<node>
-		<relay_index>3</relay_index>
-		<loop_index>8</loop_index>
-	</node>
-	<node>
-		<relay_index>4</relay_index>
-		<loop_index>8</loop_index>
-	</node>
-	<node>
-		<relay_index>5</relay_index>
 		<loop_index>8</loop_index>
 	</node>
 </light>
 
-
-<!-- 8,9,10,11第十路 -->
+<!-- 8,9,10,11第2， 10，6， 10路 -->
 <light>
 	<node>
 		<relay_index>2</relay_index>
-		<loop_index>9</loop_index>
+		<loop_index>1</loop_index>
 	</node>
 	<node>
 		<relay_index>3</relay_index>
@@ -199,7 +32,7 @@
 	</node>
 	<node>
 		<relay_index>4</relay_index>
-		<loop_index>9</loop_index>
+		<loop_index>5</loop_index>
 	</node>
 	<node>
 		<relay_index>5</relay_index>
@@ -207,11 +40,11 @@
 	</node>
 </light>
 
-<!-- 8,9,10,11第十一路 -->
+<!-- 8,9,10,11第3， 11，7， 11路 -->
 <light>
 	<node>
 		<relay_index>2</relay_index>
-		<loop_index>10</loop_index>
+		<loop_index>2</loop_index>
 	</node>
 	<node>
 		<relay_index>3</relay_index>
@@ -219,7 +52,7 @@
 	</node>
 	<node>
 		<relay_index>4</relay_index>
-		<loop_index>10</loop_index>
+		<loop_index>6</loop_index>
 	</node>
 	<node>
 		<relay_index>5</relay_index>
@@ -228,11 +61,11 @@
 </light>
 
 
-<!-- 8,9,10,11第十二路 -->
+<!-- 8,9,10,11第 4， 12，8， 12路 -->
 <light>
 	<node>
 		<relay_index>2</relay_index>
-		<loop_index>11</loop_index>
+		<loop_index>3</loop_index>
 	</node>
 	<node>
 		<relay_index>3</relay_index>
@@ -240,7 +73,7 @@
 	</node>
 	<node>
 		<relay_index>4</relay_index>
-		<loop_index>11</loop_index>
+		<loop_index>7</loop_index>
 	</node>
 	<node>
 		<relay_index>5</relay_index>
@@ -249,83 +82,250 @@
 </light>
 
 
-<!-- 继电器12：1-4路为一组 -->
-<light>
-	<node>
-		<relay_index>6</relay_index>
-		<loop_index>0</loop_index>
-	</node>
-	<node>
-		<relay_index>6</relay_index>
-		<loop_index>1</loop_index>
-	</node>
-	<node>
-		<relay_index>6</relay_index>
-		<loop_index>2</loop_index>
-	</node>
-	<node>
-		<relay_index>6</relay_index>
-		<loop_index>3</loop_index>
-	</node>
-</light>
-
-<!-- 继电器12：5-8路为一组 -->
-<light>
-	<node>
-		<relay_index>6</relay_index>
-		<loop_index>4</loop_index>
-	</node>
-	<node>
-		<relay_index>6</relay_index>
-		<loop_index>5</loop_index>
-	</node>
-	<node>
-		<relay_index>6</relay_index>
-		<loop_index>6</loop_index>
-	</node>
-	<node>
-		<relay_index>6</relay_index>
-		<loop_index>7</loop_index>
-	</node>
-</light>
-
-<!-- 继电器12：9-12路为一组 -->
-<light>
-	<node>
-		<relay_index>6</relay_index>
-		<loop_index>8</loop_index>
-	</node>
-	<node>
-		<relay_index>6</relay_index>
-		<loop_index>9</loop_index>
-	</node>
-	<node>
-		<relay_index>6</relay_index>
-		<loop_index>10</loop_index>
-	</node>
-	<node>
-		<relay_index>6</relay_index>
-		<loop_index>11</loop_index>
-	</node>
-</light>
-
-
-<!-- 继电器7：继电器的9-12路为一组 -->
+<!-- 7.8.10.12第9， 5， 9， 1路 -->
 <light>
 	<node>
 		<relay_index>1</relay_index>
 		<loop_index>8</loop_index>
 	</node>
 	<node>
+		<relay_index>2</relay_index>
+		<loop_index>4</loop_index>
+	</node>
+	<node>
+		<relay_index>4</relay_index>
+		<loop_index>8</loop_index>
+	</node>
+	<node>
+		<relay_index>6</relay_index>
+		<loop_index>0</loop_index>
+	</node>
+</light>
+
+
+<!-- 7.8.10.12第10, 6, 10,  2路 -->
+<light>
+	<node>
 		<relay_index>1</relay_index>
 		<loop_index>9</loop_index>
 	</node>
+	<node>
+		<relay_index>2</relay_index>
+		<loop_index>5</loop_index>
+	</node>
+	<node>
+		<relay_index>4</relay_index>
+		<loop_index>9</loop_index>
+	</node>
+	<node>
+		<relay_index>6</relay_index>
+		<loop_index>1</loop_index>
+	</node>
+</light>
+
+
+<!-- 7.8.10.12第11, 7, 11,  3路 -->
+<light>
 	<node>
 		<relay_index>1</relay_index>
 		<loop_index>10</loop_index>
 	</node>
 	<node>
+		<relay_index>2</relay_index>
+		<loop_index>6</loop_index>
+	</node>
+	<node>
+		<relay_index>4</relay_index>
+		<loop_index>10</loop_index>
+	</node>
+	<node>
+		<relay_index>6</relay_index>
+		<loop_index>2</loop_index>
+	</node>
+</light>
+
+
+<!-- 7.8.10.12第12, 8, 12,  4路 -->
+<light>
+	<node>
 		<relay_index>1</relay_index>
+		<loop_index>11</loop_index>
+	</node>
+	<node>
+		<relay_index>2</relay_index>
+		<loop_index>7</loop_index>
+	</node>
+	<node>
+		<relay_index>4</relay_index>
+		<loop_index>11</loop_index>
+	</node>
+	<node>
+		<relay_index>6</relay_index>
+		<loop_index>3</loop_index>
+	</node>
+</light>
+
+
+<!-- 继电器8.9.11.12第9, 1, 1,   5  路 -->
+<light>
+	<node>
+		<relay_index>2</relay_index>
+		<loop_index>8</loop_index>
+	</node>
+	<node>
+		<relay_index>3</relay_index>
+		<loop_index>0</loop_index>
+	</node>
+	<node>
+		<relay_index>5</relay_index>
+		<loop_index>0</loop_index>
+	</node>
+	<node>
+		<relay_index>6</relay_index>
+		<loop_index>4</loop_index>
+	</node>
+</light>
+
+
+<!-- 继电器8.9.11.12第10, 2, 2,   6路 -->
+<light>
+	<node>
+		<relay_index>2</relay_index>
+		<loop_index>9</loop_index>
+	</node>
+	<node>
+		<relay_index>3</relay_index>
+		<loop_index>1</loop_index>
+	</node>
+	<node>
+		<relay_index>5</relay_index>
+		<loop_index>1</loop_index>
+	</node>
+	<node>
+		<relay_index>6</relay_index>
+		<loop_index>5</loop_index>
+	</node>
+</light>
+
+<!-- 继电器8.9.11.12第11, 3, 3,   7路 -->
+<light>
+	<node>
+		<relay_index>2</relay_index>
+		<loop_index>10</loop_index>
+	</node>
+	<node>
+		<relay_index>3</relay_index>
+		<loop_index>2</loop_index>
+	</node>
+	<node>
+		<relay_index>5</relay_index>
+		<loop_index>2</loop_index>
+	</node>
+	<node>
+		<relay_index>6</relay_index>
+		<loop_index>6</loop_index>
+	</node>
+</light>
+
+
+<!-- 继电器8.9.11.12第12, 4, 4,   8路 -->
+<light>
+	<node>
+		<relay_index>2</relay_index>
+		<loop_index>11</loop_index>
+	</node>
+	<node>
+		<relay_index>3</relay_index>
+		<loop_index>3</loop_index>
+	</node>
+	<node>
+		<relay_index>5</relay_index>
+		<loop_index>3</loop_index>
+	</node>
+	<node>
+		<relay_index>6</relay_index>
+		<loop_index>7</loop_index>
+	</node>
+</light>
+
+
+<!-- 继电器9.10.11.12第5, 1, 5,   9路 -->
+<light>
+	<node>
+		<relay_index>3</relay_index>
+		<loop_index>4</loop_index>
+	</node>
+	<node>
+		<relay_index>4</relay_index>
+		<loop_index>0</loop_index>
+	</node>
+	<node>
+		<relay_index>5</relay_index>
+		<loop_index>4</loop_index>
+	</node>
+	<node>
+		<relay_index>6</relay_index>
+		<loop_index>8</loop_index>
+	</node>
+</light>
+
+<!-- 继电器9.10.11.12第6, 2, 6,   10路 -->
+<light>
+	<node>
+		<relay_index>3</relay_index>
+		<loop_index>5</loop_index>
+	</node>
+	<node>
+		<relay_index>4</relay_index>
+		<loop_index>1</loop_index>
+	</node>
+	<node>
+		<relay_index>5</relay_index>
+		<loop_index>5</loop_index>
+	</node>
+	<node>
+		<relay_index>6</relay_index>
+		<loop_index>9</loop_index>
+	</node>
+</light>
+
+<!-- 继电器9.10.11.12第7, 3, 7,   11路 -->
+<light>
+	<node>
+		<relay_index>3</relay_index>
+		<loop_index>6</loop_index>
+	</node>
+	<node>
+		<relay_index>4</relay_index>
+		<loop_index>2</loop_index>
+	</node>
+	<node>
+		<relay_index>5</relay_index>
+		<loop_index>6</loop_index>
+	</node>
+	<node>
+		<relay_index>6</relay_index>
+		<loop_index>10</loop_index>
+	</node>
+</light>
+
+
+<!-- 继电器9.10.11.12第8, 4, 8,   12路 -->
+<light>
+	<node>
+		<relay_index>3</relay_index>
+		<loop_index>7</loop_index>
+	</node>
+	<node>
+		<relay_index>4</relay_index>
+		<loop_index>3</loop_index>
+	</node>
+	<node>
+		<relay_index>5</relay_index>
+		<loop_index>7</loop_index>
+	</node>
+	<node>
+		<relay_index>6</relay_index>
 		<loop_index>11</loop_index>
 	</node>
 </light>
