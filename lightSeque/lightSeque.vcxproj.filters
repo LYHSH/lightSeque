@@ -1,0 +1,399 @@
+<?xml version="1.0"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<ClCompile Include="src\ofApp.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\main.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\main.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\ofApp.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\..\addons\ofxConstants\src\ofxMyConstants.cpp">
+			<Filter>addons\ofxConstants\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\..\addons\ofxImGui\src\libs\imgui\src\imgui.cpp">
+			<Filter>addons\ofxImGui\src\libs\imgui\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\..\addons\ofxImGui\src\libs\imgui\src\imgui_demo.cpp">
+			<Filter>addons\ofxImGui\src\libs\imgui\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\..\addons\ofxImGui\src\libs\imgui\src\imgui_draw.cpp">
+			<Filter>addons\ofxImGui\src\libs\imgui\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\..\addons\ofxImGui\src\src\BaseEngine.cpp">
+			<Filter>addons\ofxImGui\src\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\..\addons\ofxImGui\src\src\BaseTheme.cpp">
+			<Filter>addons\ofxImGui\src\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\..\addons\ofxImGui\src\src\EngineGLFW.cpp">
+			<Filter>addons\ofxImGui\src\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\..\addons\ofxImGui\src\src\EngineOpenGLES.cpp">
+			<Filter>addons\ofxImGui\src\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\..\addons\ofxImGui\src\src\EngineVk.cpp">
+			<Filter>addons\ofxImGui\src\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\..\addons\ofxImGui\src\src\Gui.cpp">
+			<Filter>addons\ofxImGui\src\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\..\addons\ofxImGui\src\src\Helpers.cpp">
+			<Filter>addons\ofxImGui\src\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\..\addons\ofxImGui\src\src\ofxImGuiLoggerChannel.cpp">
+			<Filter>addons\ofxImGui\src\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\..\addons\ofxLeapMotion2\src\ofxLeapMotion2.cpp">
+			<Filter>addons\ofxLeapMotion2\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\..\addons\ofxMyAppControl\src\ofxAppControl.cpp">
+			<Filter>addons\ofxMyAppControl\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\..\addons\ofxMyDataSender\src\ofxDataSender.cpp">
+			<Filter>addons\ofxMyDataSender\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\..\addons\ofxMyDataSender\src\ofxDataSenderFacory.cpp">
+			<Filter>addons\ofxMyDataSender\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\..\addons\ofxMyDataSender\src\ofxDataSenderMgr.cpp">
+			<Filter>addons\ofxMyDataSender\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\..\addons\ofxMyDataSender\src\ofxSerialDataSender.cpp">
+			<Filter>addons\ofxMyDataSender\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\..\addons\ofxMyDataSender\src\ofxTcpDataSender.cpp">
+			<Filter>addons\ofxMyDataSender\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\..\addons\ofxMyDataSender\src\ofxUdpDataSender.cpp">
+			<Filter>addons\ofxMyDataSender\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\..\addons\ofxMyFramework\src\checkDigitCalculation.cpp">
+			<Filter>addons\ofxMyFramework\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\..\addons\ofxMyRelay\src\ofx2000seriesRelays.cpp">
+			<Filter>addons\ofxMyRelay\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\..\addons\ofxMyRelay\src\ofx55LongtengRelays.cpp">
+			<Filter>addons\ofxMyRelay\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\..\addons\ofxMyRelay\src\ofx55seriesRelays.cpp">
+			<Filter>addons\ofxMyRelay\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\..\addons\ofxMyRelay\src\ofxHengYang2Relay.cpp">
+			<Filter>addons\ofxMyRelay\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\..\addons\ofxMyRelay\src\ofxLightingRelays.cpp">
+			<Filter>addons\ofxMyRelay\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\..\addons\ofxMyRelay\src\ofxRealRelayBase.cpp">
+			<Filter>addons\ofxMyRelay\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\..\addons\ofxMyRelay\src\ofxRelayComponent.cpp">
+			<Filter>addons\ofxMyRelay\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\..\addons\ofxMyRelay\src\ofxRelayEqualComponent.cpp">
+			<Filter>addons\ofxMyRelay\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\..\addons\ofxMyRelay\src\ofxRelayFactory.cpp">
+			<Filter>addons\ofxMyRelay\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\..\addons\ofxMyRelay\src\ofxRelayLoopMgr.cpp">
+			<Filter>addons\ofxMyRelay\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\..\addons\ofxMyRelay\src\ofxRelaysBase.cpp">
+			<Filter>addons\ofxMyRelay\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\..\addons\ofxMyRelay\src\ofxRelaysMgr.cpp">
+			<Filter>addons\ofxMyRelay\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\..\addons\ofxMyRelay\src\ofxRelayThreadDecoration.cpp">
+			<Filter>addons\ofxMyRelay\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\..\addons\ofxMyRelay\src\ofxVirtualRelayBase.cpp">
+			<Filter>addons\ofxMyRelay\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\..\addons\ofxNetwork\src\ofxTCPClient.cpp">
+			<Filter>addons\ofxNetwork\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\..\addons\ofxNetwork\src\ofxTCPManager.cpp">
+			<Filter>addons\ofxNetwork\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\..\addons\ofxNetwork\src\ofxTCPServer.cpp">
+			<Filter>addons\ofxNetwork\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\..\addons\ofxNetwork\src\ofxUDPManager.cpp">
+			<Filter>addons\ofxNetwork\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\..\addons\ofxXmlSettings\src\ofxXmlSettings.cpp">
+			<Filter>addons\ofxXmlSettings\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\..\addons\ofxXmlSettings\libs\tinyxml.cpp">
+			<Filter>addons\ofxXmlSettings\libs</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\..\addons\ofxXmlSettings\libs\tinyxmlerror.cpp">
+			<Filter>addons\ofxXmlSettings\libs</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\..\addons\ofxXmlSettings\libs\tinyxmlparser.cpp">
+			<Filter>addons\ofxXmlSettings\libs</Filter>
+		</ClCompile>
+	</ItemGroup>
+	<ItemGroup>
+		<Filter Include="src">
+			<UniqueIdentifier>{d8376475-7454-4a24-b08a-aac121d3ad6f}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons">
+			<UniqueIdentifier>{71834F65-F3A9-211E-73B8-DC85}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxConstants">
+			<UniqueIdentifier>{E3754598-CA85-8CB3-071C-AB1A}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxConstants\src">
+			<UniqueIdentifier>{1E6D5BC5-A69E-1B43-E70D-744D}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxImGui">
+			<UniqueIdentifier>{0CD6A942-69FF-3BAA-3AF1-ADD1}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxImGui\src">
+			<UniqueIdentifier>{18028A43-13D3-1DD5-471A-BE87}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxImGui\src\libs">
+			<UniqueIdentifier>{F0C4C2FC-CE68-9631-687A-122A}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxImGui\src\libs\imgui">
+			<UniqueIdentifier>{3EE53AE8-87EF-8630-2070-B9DA}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxImGui\src\libs\imgui\src">
+			<UniqueIdentifier>{243E7B27-FF28-B9C9-B7FA-B610}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxImGui\src\src">
+			<UniqueIdentifier>{BABCC5CE-2BE9-AF95-9282-F462}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxLeapMotion2">
+			<UniqueIdentifier>{3495A605-88B6-E143-E79F-BC0C}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxLeapMotion2\src">
+			<UniqueIdentifier>{DCB14B88-7C0C-1705-F48C-5B80}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxLeapMotion2\libs">
+			<UniqueIdentifier>{A340EBFF-11BD-59ED-D6A7-8DFE}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxLeapMotion2\libs\include">
+			<UniqueIdentifier>{7156F9B7-1D7B-A2C1-9EC3-E7CF}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxMyAppControl">
+			<UniqueIdentifier>{0F93E797-814C-FCC1-3B13-6B70}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxMyAppControl\src">
+			<UniqueIdentifier>{729A2B20-BC3A-5798-9397-9D4A}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxMyDataSender">
+			<UniqueIdentifier>{F717C355-6611-7FA0-6B46-4F10}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxMyDataSender\src">
+			<UniqueIdentifier>{E36B8253-5EE3-EFA6-F3E8-AFBA}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxMyFramework">
+			<UniqueIdentifier>{69585273-CB33-E671-1A45-42BC}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxMyFramework\src">
+			<UniqueIdentifier>{B0F0FA6D-2FA9-237C-8C54-41A3}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxMyRelay">
+			<UniqueIdentifier>{A4E13EC9-8A03-A4DB-C28D-66EA}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxMyRelay\src">
+			<UniqueIdentifier>{441CDEEC-02CE-70AB-018A-93AD}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxNetwork">
+			<UniqueIdentifier>{01A15744-29A6-108D-08E9-83A7}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxNetwork\src">
+			<UniqueIdentifier>{3D1C10C7-8F35-E796-9C70-F5F3}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxSerial">
+			<UniqueIdentifier>{E1E4AE73-4A0A-7627-37ED-3253}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxSerial\src">
+			<UniqueIdentifier>{A215C2B7-2A7F-4B7B-0D28-5393}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxXmlSettings">
+			<UniqueIdentifier>{877F005D-13E6-0592-1D97-F2E3}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxXmlSettings\src">
+			<UniqueIdentifier>{CCB2AC63-49D2-977C-CFE8-AEAD}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxXmlSettings\libs">
+			<UniqueIdentifier>{687714A8-1662-FA1C-261F-50F0}</UniqueIdentifier>
+		</Filter>
+	</ItemGroup>
+	<ItemGroup>
+		<ClInclude Include="src\ofApp.h">
+			<Filter>src</Filter>
+		</ClInclude>
+		<ClInclude Include="src\ofApp.h">
+			<Filter>src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\..\addons\ofxConstants\src\ofxMyConstants.h">
+			<Filter>addons\ofxConstants\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\..\addons\ofxImGui\src\libs\imgui\src\imgui.h">
+			<Filter>addons\ofxImGui\src\libs\imgui\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\..\addons\ofxImGui\src\libs\imgui\src\imgui_internal.h">
+			<Filter>addons\ofxImGui\src\libs\imgui\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\..\addons\ofxImGui\src\libs\imgui\src\stb_rect_pack.h">
+			<Filter>addons\ofxImGui\src\libs\imgui\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\..\addons\ofxImGui\src\libs\imgui\src\stb_textedit.h">
+			<Filter>addons\ofxImGui\src\libs\imgui\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\..\addons\ofxImGui\src\libs\imgui\src\stb_truetype.h">
+			<Filter>addons\ofxImGui\src\libs\imgui\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\..\addons\ofxImGui\src\src\BaseEngine.h">
+			<Filter>addons\ofxImGui\src\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\..\addons\ofxImGui\src\src\BaseTheme.h">
+			<Filter>addons\ofxImGui\src\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\..\addons\ofxImGui\src\src\EngineGLFW.h">
+			<Filter>addons\ofxImGui\src\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\..\addons\ofxImGui\src\src\EngineOpenGLES.h">
+			<Filter>addons\ofxImGui\src\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\..\addons\ofxImGui\src\src\EngineVk.h">
+			<Filter>addons\ofxImGui\src\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\..\addons\ofxImGui\src\src\Gui.h">
+			<Filter>addons\ofxImGui\src\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\..\addons\ofxImGui\src\src\Helpers.h">
+			<Filter>addons\ofxImGui\src\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\..\addons\ofxImGui\src\src\imconfig.h">
+			<Filter>addons\ofxImGui\src\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\..\addons\ofxImGui\src\src\ofxImGui.h">
+			<Filter>addons\ofxImGui\src\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\..\addons\ofxImGui\src\src\ofxImGuiLoggerChannel.h">
+			<Filter>addons\ofxImGui\src\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\..\addons\ofxImGui\src\src\ThemeTest.h">
+			<Filter>addons\ofxImGui\src\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\..\addons\ofxLeapMotion2\src\ofxLeapMotion2.h">
+			<Filter>addons\ofxLeapMotion2\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\..\addons\ofxLeapMotion2\libs\include\Leap.h">
+			<Filter>addons\ofxLeapMotion2\libs\include</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\..\addons\ofxLeapMotion2\libs\include\LeapMath.h">
+			<Filter>addons\ofxLeapMotion2\libs\include</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\..\addons\ofxMyAppControl\src\ofxAppControl.h">
+			<Filter>addons\ofxMyAppControl\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\..\addons\ofxMyDataSender\src\ofxDataSender.h">
+			<Filter>addons\ofxMyDataSender\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\..\addons\ofxMyDataSender\src\ofxDataSenderFacory.h">
+			<Filter>addons\ofxMyDataSender\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\..\addons\ofxMyDataSender\src\ofxDataSenderMgr.h">
+			<Filter>addons\ofxMyDataSender\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\..\addons\ofxMyDataSender\src\ofxSerialDataSender.h">
+			<Filter>addons\ofxMyDataSender\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\..\addons\ofxMyDataSender\src\ofxTcpDataSender.h">
+			<Filter>addons\ofxMyDataSender\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\..\addons\ofxMyDataSender\src\ofxUdpDataSender.h">
+			<Filter>addons\ofxMyDataSender\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\..\addons\ofxMyFramework\src\checkDigitCalculation.h">
+			<Filter>addons\ofxMyFramework\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\..\addons\ofxMyRelay\src\ofx2000seriesRelays.h">
+			<Filter>addons\ofxMyRelay\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\..\addons\ofxMyRelay\src\ofx55LongtengRelays.h">
+			<Filter>addons\ofxMyRelay\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\..\addons\ofxMyRelay\src\ofx55seriesRelays.h">
+			<Filter>addons\ofxMyRelay\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\..\addons\ofxMyRelay\src\ofxHengYang2Relay.h">
+			<Filter>addons\ofxMyRelay\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\..\addons\ofxMyRelay\src\ofxLightingRelays.h">
+			<Filter>addons\ofxMyRelay\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\..\addons\ofxMyRelay\src\ofxRealRelayBase.h">
+			<Filter>addons\ofxMyRelay\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\..\addons\ofxMyRelay\src\ofxRelayComponent.h">
+			<Filter>addons\ofxMyRelay\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\..\addons\ofxMyRelay\src\ofxRelayEqualComponent.h">
+			<Filter>addons\ofxMyRelay\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\..\addons\ofxMyRelay\src\ofxRelayFactory.h">
+			<Filter>addons\ofxMyRelay\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\..\addons\ofxMyRelay\src\ofxRelayLoopMgr.h">
+			<Filter>addons\ofxMyRelay\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\..\addons\ofxMyRelay\src\ofxRelaysBase.h">
+			<Filter>addons\ofxMyRelay\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\..\addons\ofxMyRelay\src\ofxRelaysMgr.h">
+			<Filter>addons\ofxMyRelay\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\..\addons\ofxMyRelay\src\ofxRelayThreadDecoration.h">
+			<Filter>addons\ofxMyRelay\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\..\addons\ofxMyRelay\src\ofxVirtualRelayBase.h">
+			<Filter>addons\ofxMyRelay\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\..\addons\ofxNetwork\src\ofxNetwork.h">
+			<Filter>addons\ofxNetwork\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\..\addons\ofxNetwork\src\ofxNetworkUtils.h">
+			<Filter>addons\ofxNetwork\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\..\addons\ofxNetwork\src\ofxTCPClient.h">
+			<Filter>addons\ofxNetwork\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\..\addons\ofxNetwork\src\ofxTCPManager.h">
+			<Filter>addons\ofxNetwork\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\..\addons\ofxNetwork\src\ofxTCPServer.h">
+			<Filter>addons\ofxNetwork\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\..\addons\ofxNetwork\src\ofxUDPManager.h">
+			<Filter>addons\ofxNetwork\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\..\addons\ofxSerial\src\ofxSerial.h">
+			<Filter>addons\ofxSerial\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\..\addons\ofxXmlSettings\src\ofxXmlSettings.h">
+			<Filter>addons\ofxXmlSettings\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\..\addons\ofxXmlSettings\libs\tinyxml.h">
+			<Filter>addons\ofxXmlSettings\libs</Filter>
+		</ClInclude>
+	</ItemGroup>
+	<ItemGroup>
+		<ResourceCompile Include="icon.rc" />
+	</ItemGroup>
+</Project>

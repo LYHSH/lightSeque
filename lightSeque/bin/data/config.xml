@@ -1,0 +1,8 @@
+<PORT>19999</PORT>
+
+<CMD_ALL_ON>seque_light_all_on</CMD_ALL_ON>
+<CMD_ALL_OFF>seque_light_all_off</CMD_ALL_OFF>
+<CMD_ALL_LOOP>seque_light_all_loop</CMD_ALL_LOOP>
+
+
+<GAP_TIME_LEN>5.0f</GAP_TIME_LEN>

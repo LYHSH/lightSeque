@@ -1,0 +1,170 @@
+<!-- 0   -->
+<RELAY>
+	<type>9</type>
+	<COMPONENT>
+		<ADDRESS>0X03</ADDRESS>
+		<SIZE>12</SIZE>
+	</COMPONENT>
+</RELAY>
+<DATA_SENDER>
+	<!-- <SERIAL>
+		<COM>COM4</COM>
+		<N_BAUD>9600</N_BAUD>
+	</SERIAL> -->
+	<UDP>
+		<IP>192.168.1.192</IP>
+		<PORT>55555</PORT>
+	</UDP>
+	<!-- <TCP>
+		<IP>127.0.0.1</IP>
+		<PORT>6000</PORT>
+	</TCP> -->
+</DATA_SENDER>
+
+
+
+<!-- 1   -->
+<RELAY>
+	<type>9</type>
+	<COMPONENT>
+		<ADDRESS>0X07</ADDRESS>
+		<SIZE>12</SIZE>
+	</COMPONENT>
+</RELAY>
+<DATA_SENDER>
+	<!-- <SERIAL>
+		<COM>COM4</COM>
+		<N_BAUD>9600</N_BAUD>
+	</SERIAL> -->
+	<UDP>
+		<IP>192.168.1.193</IP>
+		<PORT>55555</PORT>
+	</UDP>
+	<!-- <TCP>
+		<IP>127.0.0.1</IP>
+		<PORT>6000</PORT>
+	</TCP> -->
+</DATA_SENDER>
+
+
+
+<!-- 2   -->
+<RELAY>
+	<type>9</type>
+	<COMPONENT>
+		<ADDRESS>0X08</ADDRESS>
+		<SIZE>12</SIZE>
+	</COMPONENT>
+</RELAY>
+<DATA_SENDER>
+	<!-- <SERIAL>
+		<COM>COM4</COM>
+		<N_BAUD>9600</N_BAUD>
+	</SERIAL> -->
+	<UDP>
+		<IP>192.168.1.194</IP>
+		<PORT>55555</PORT>
+	</UDP>
+	<!-- <TCP>
+		<IP>127.0.0.1</IP>
+		<PORT>6000</PORT>
+	</TCP> -->
+</DATA_SENDER>
+
+
+
+<!-- 3   -->
+<RELAY>
+	<type>9</type>
+	<COMPONENT>
+		<ADDRESS>0X09</ADDRESS>
+		<SIZE>12</SIZE>
+	</COMPONENT>
+</RELAY>
+<DATA_SENDER>
+	<!-- <SERIAL>
+		<COM>COM4</COM>
+		<N_BAUD>9600</N_BAUD>
+	</SERIAL> -->
+	<UDP>
+		<IP>192.168.1.195</IP>
+		<PORT>55555</PORT>
+	</UDP>
+	<!-- <TCP>
+		<IP>127.0.0.1</IP>
+		<PORT>6000</PORT>
+	</TCP> -->
+</DATA_SENDER>
+
+
+<!-- 4   -->
+<RELAY>
+	<type>9</type>
+	<COMPONENT>
+		<ADDRESS>0X0A</ADDRESS>
+		<SIZE>12</SIZE>
+	</COMPONENT>
+</RELAY>
+<DATA_SENDER>
+	<!-- <SERIAL>
+		<COM>COM4</COM>
+		<N_BAUD>9600</N_BAUD>
+	</SERIAL> -->
+	<UDP>
+		<IP>192.168.1.196</IP>
+		<PORT>55555</PORT>
+	</UDP>
+	<!-- <TCP>
+		<IP>127.0.0.1</IP>
+		<PORT>6000</PORT>
+	</TCP> -->
+</DATA_SENDER>
+
+
+
+<!-- 5   -->
+<RELAY>
+	<type>9</type>
+	<COMPONENT>
+		<ADDRESS>0X0B</ADDRESS>
+		<SIZE>12</SIZE>
+	</COMPONENT>
+</RELAY>
+<DATA_SENDER>
+	<!-- <SERIAL>
+		<COM>COM4</COM>
+		<N_BAUD>9600</N_BAUD>
+	</SERIAL> -->
+	<UDP>
+		<IP>192.168.1.197</IP>
+		<PORT>55555</PORT>
+	</UDP>
+	<!-- <TCP>
+		<IP>127.0.0.1</IP>
+		<PORT>6000</PORT>
+	</TCP> -->
+</DATA_SENDER>
+
+
+<!-- 6   -->
+<RELAY>
+	<type>9</type>
+	<COMPONENT>
+		<ADDRESS>0X0C</ADDRESS>
+		<SIZE>12</SIZE>
+	</COMPONENT>
+</RELAY>
+<DATA_SENDER>
+	<!-- <SERIAL>
+		<COM>COM4</COM>
+		<N_BAUD>9600</N_BAUD>
+	</SERIAL> -->
+	<UDP>
+		<IP>192.168.1.198</IP>
+		<PORT>55555</PORT>
+	</UDP>
+	<!-- <TCP>
+		<IP>127.0.0.1</IP>
+		<PORT>6000</PORT>
+	</TCP> -->
+</DATA_SENDER>

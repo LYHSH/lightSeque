@@ -1,0 +1,4 @@
+*.db
+lightSeque/.vs/
+lightSeque/obj/
+lightSeque/lightSeque.vcxproj.user
